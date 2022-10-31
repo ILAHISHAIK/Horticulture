@@ -1,2 +1,2 @@
 # Horticulture
-https://proud-smoke-061425b10.2.azurestaticapps.net
+azure-static-web-apps-proud-smoke-061425b10.yml
